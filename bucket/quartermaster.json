@@ -1,11 +1,11 @@
 {
-    "version": "0.1.21",
+    "version": "0.1.22",
     "description": "Cuánta cuota te queda en todos los perfiles de Claude Code de la máquina, más Codex y opencode.",
     "homepage": "https://quartermaster.legios.com.ar/",
     "license": "MIT",
     "depends": "main/nodejs-lts",
-    "url": "https://github.com/legiosai/quartermaster/releases/download/v0.1.21/quartermaster-0.1.21-win.zip",
-    "hash": "32401d343aa294b71432aa54405d0cf0b344a7c9ca88892206549eb53a5e489a",
+    "url": "https://github.com/legiosai/quartermaster/releases/download/v0.1.22/quartermaster-0.1.22-win.zip",
+    "hash": "78604bef98384eaaf8c513e0f3630f1d6ac7d1acaf6724300170793664946ef1",
     "bin": [
         [
             "bin\\qm.cmd",
